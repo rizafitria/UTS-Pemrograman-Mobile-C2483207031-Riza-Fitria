@@ -51,8 +51,6 @@ Berikut dokumentasi tampilan aplikasi TugasKu:
 ### 4. Halaman Edit Tugas
 ![Edit Tugas](screenshots/edittugas1.png)
 
-> Catatan: Simpan screenshot aplikasi ke dalam folder `screenshots` dengan nama file sesuai gambar di atas. Ganti nama atau sesuaikan jika tampilan aplikasimu berbeda.
+link youtube
+https://youtu.be/HsuHX4VXqHk?si=TKu7pxrxamOqpb5C
 
-## 💻 Cara Instalasi dan Menjalankan Aplikasi
-
-### 1. Persyar
