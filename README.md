@@ -9,7 +9,7 @@ Aplikasi ini menerapkan konsep CRUD (*Create, Read, Update, Delete*) dengan tamp
 | Keterangan | Identitas |
 |---|---|
 | Nama | Riza Fitria |
-| NIM | [Isi NIM] |
+| NIM | C2483207031 |
 | Program Studi | Pendidikan Teknologi Informasi |
 | Fakultas | Keguruan dan Ilmu Pendidikan |
 | Universitas | Universitas Muhammadiyah Tasikmalaya |
@@ -40,16 +40,16 @@ Aplikasi ini menerapkan konsep CRUD (*Create, Read, Update, Delete*) dengan tamp
 Berikut dokumentasi tampilan aplikasi TugasKu:
 
 ### 1. Halaman Utama
-![Halaman Utama](screenshots/beranda.png)
+![Halaman Utama](screenshots/detailtugas.png)
 
 ### 2. Halaman Tambah Tugas
-![Tambah Tugas](screenshots/tambah-tugas.png)
+![Tambah Tugas](screenshots/tambahtugas.png)
 
 ### 3. Halaman Detail Tugas
-![Detail Tugas](screenshots/detail-tugas.png)
+![Detail Tugas](screenshots/edittugas.png)
 
 ### 4. Halaman Edit Tugas
-![Edit Tugas](screenshots/edit-tugas.png)
+![Edit Tugas](screenshots/edittugas1.png)
 
 > Catatan: Simpan screenshot aplikasi ke dalam folder `screenshots` dengan nama file sesuai gambar di atas. Ganti nama atau sesuaikan jika tampilan aplikasimu berbeda.
 
